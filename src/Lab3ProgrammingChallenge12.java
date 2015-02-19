@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 /**
- * Created by tim on 2/14/15.
+ * Created by tlt31 on 2/19/15.
  */
-public class lab3 {
+public class Lab3ProgrammingChallenge12 {
 
     public static void main(String[] args) {
 
@@ -49,8 +49,7 @@ public class lab3 {
         }
 
         time = inputD/medium;
-        System.out.println("It will take ~" + time + " seconds for sound to travel " + inputD + "ft through " + input + ".");
-
+        System.out.println("It will take " + time + " seconds for sound to travel " + inputD + "ft through " + input + ".");
 
     }
 
